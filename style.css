@@ -78,12 +78,12 @@ section.imagem > p {
 }
 section#img01 {
     background-image: url(fotos/ft1\ pg.jpg);
-    background-position: right center;
-     background-size: cover;
+    background-position: center;
+     background-size: center;
 }
 section#img02 {
     background-image: url(fotos/ft2\ pg.jpg);
-    background-size: cover;
+    background-size: center;
 }
 
 footer {
